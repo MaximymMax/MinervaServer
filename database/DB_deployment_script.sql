@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS public."Accounts"
     type_id bigint NOT NULL,
     email character varying(255) COLLATE pg_catalog."default" NOT NULL,
     hashed_password character varying(255) COLLATE pg_catalog."default" NOT NULL,
-    path_to_profile_proto character varying(255),
+    path_to_profile_photo character varying(255),
     phone character varying(255) COLLATE pg_catalog."default",
     path_to_resume character varying(255),
     CONSTRAINT "Accounts_pkey" PRIMARY KEY (id)
