@@ -6,7 +6,7 @@ CREATE TABLE "Accounts"(
     "hashed_password" VARCHAR(255) NOT NULL,
     "path_to_profile_photo" VARCHAR(255) NOT NULL,
     "phone" VARCHAR(255) NOT NULL,
-    "path_to_resume" VARCHAR(255) NOT NULL,
+    "path_to_resume" VARCHAR(255) NULL,
     "last_sign_in_date" DATE NOT NULL
 );
 ALTER TABLE
