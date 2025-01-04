@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\properties\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\properties\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\server_minervaproject_test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\server_minervaproject_test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\controllers\\editprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\controllers\\editprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\controllers\\registcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\controllers\\registcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\models\\articlesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\models\\articlesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\models\\achievementsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\models\\achievementsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|c:\\users\\putya\\source\\repos\\server_minervaproject_test\\server_minervaproject_test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81CA3BC-B510-40B3-A255-15DF993E577C}|Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj|solutionrelative:server_minervaproject_test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Models\\AccountModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:59:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Models\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:59:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T20:12:56.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Properties\\appsettings.json",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Properties\\appsettings.json",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Properties\\appsettings.json",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Properties\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T20:12:52.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server_MinervaProject_TEST",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Server_MinervaProject_TEST.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T10:31:07.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\EditProfileController.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Controllers\\EditProfileController.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\EditProfileController.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Controllers\\EditProfileController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:36:53.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistController.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\RegistController.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Controllers\\RegistController.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\RegistController.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Controllers\\RegistController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:39:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:54:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Program.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Program.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:57.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticlesModel.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\ArticlesModel.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Models\\ArticlesModel.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\ArticlesModel.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Models\\ArticlesModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABBwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:47:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AchievementsModel.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\AchievementsModel.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Models\\AchievementsModel.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Models\\AchievementsModel.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Models\\AchievementsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:48:30.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Server_MinervaProject_TEST\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\putya\\source\\repos\\Server_MinervaProject_TEST\\Server_MinervaProject_TEST\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Server_MinervaProject_TEST\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:52:03.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
